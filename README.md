@@ -52,12 +52,12 @@ Criar um sistema para cadastro, análise e visualização de áreas agrícolas, 
 
 | **Descrição** | **Requisito** |
 |-------- | :--------: |
-| Prever um grande volume de notícias armazenadas | 8 |
+| Documentação: manual de usuário, diagrama entidade-relacionamento e instruções de instalação | 8 |
 | Utilizar softwares livres | 9 |
 | Java (linguagem de programação, frameworks e APIs) | 10 |
 | Deverá ser uma aplicação web | 11 |
 | O front-end deve ser desenvolvido de forma minimalista | 12 |
-| Documentação: manual de usuário, diagrama entidade-relacionamento e instruções de instalação | 13 |
+
 
 
 ## :calendar: Cronograma
