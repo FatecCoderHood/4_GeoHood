@@ -16,21 +16,19 @@
   <a href="#bookmark-tecnologias-utilizadas"> Tecnologias Utilizadas </a>
 </p>
 
-
 ## :mortar_board: Integrantes:
 
-| **Nome**                   | **Função**            | **LinkedIn**                                                  |
-|:----------------------:|:-----------------:|:----------------------------------------------------------:|
-| Rafael Trevizoli       | Product Owner    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rafael-trevizoli)|
-| Juan Cursino           | Scrum Master      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](http://www.linkedin.com/in/juan-cursino)|
-| Aline Ramos            | Desenvolvedor      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aline-ramos-3186b130)|
-| Caique Almeida         | Desenvolvedor     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/caique-almeida-privado)|
-| Cristiane Alvares      | Desenvolvedor     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/cristiane-alvares)|
-| Gustavo Robert        | Desenvolvedor     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gustavo-robert/)|
-| Jean César             | Desenvolvedor     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jean-rodrigues-0569a0251)|
-| Rennerson Vasconcelos  | Desenvolvedor     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rennerson-vasconcelos-afonso-136107169/)|
-| Rodrigo Antonio          | Desenvolvedor     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rodrigoapvieira/)|
-
+|       **Nome**        |  **Função**   |                                                                                      **LinkedIn**                                                                                      |
+| :-------------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   Rafael Trevizoli    | Product Owner |            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rafael-trevizoli)             |
+|     Juan Cursino      | Scrum Master  |               [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](http://www.linkedin.com/in/juan-cursino)               |
+|      Aline Ramos      | Desenvolvedor |          [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aline-ramos-3186b130)           |
+|    Caique Almeida     | Desenvolvedor |         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/caique-almeida-privado)          |
+|   Cristiane Alvares   | Desenvolvedor |            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/cristiane-alvares)            |
+|    Gustavo Robert     | Desenvolvedor |             [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gustavo-robert/)             |
+|      Jean César       | Desenvolvedor |        [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jean-rodrigues-0569a0251)         |
+| Rennerson Vasconcelos | Desenvolvedor | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rennerson-vasconcelos-afonso-136107169/) |
+|    Rodrigo Antonio    | Desenvolvedor |            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rodrigoapvieira/)             |
 
 ## :dart: Objetivo
 
@@ -38,44 +36,44 @@ Criar um sistema para cadastro, análise e visualização de áreas agrícolas, 
 
 ## :page_facing_up: Requisitos Funcionais
 
-| **Descrição** | **Requisito** |
-|-------- | :--------: |
-| Cadastro de usuários (Administrador, Analista e Consultor) | 1 |
-| Cadastro de áreas agrícolas | 2 |
-| Upload de geometria via arquivo .geojson | 3 |
-| Edição e aprovação de áreas pelo Analista | 4 |
-| Dashboards interativos com filtros de dados | 5 |
-| Exibição de áreas agrícolas no mapa | 6 |
-| Consumo de API do tipo Stream para plotagem de dados processados nas áreas | 7 |
+| **Descrição**                                                              | **Requisito** |
+| -------------------------------------------------------------------------- | :-----------: |
+| Cadastro de usuários (Administrador, Analista e Consultor)                 |       1       |
+| Cadastro de áreas agrícolas                                                |       2       |
+| Upload de geometria via arquivo .geojson                                   |       3       |
+| Edição e aprovação de áreas pelo Analista                                  |       4       |
+| Dashboards interativos com filtros de dados                                |       5       |
+| Exibição de áreas agrícolas no mapa                                        |       6       |
+| Consumo de API do tipo Stream para plotagem de dados processados nas áreas |       7       |
 
 ## :bulb: Desafio
-| **Descrição** | **Requisito** |
-|-------- | :--------: |
-| Ferramenta de desenho para edição de geometria | 8 |
+
+| **Descrição**                                  | **Requisito** |
+| ---------------------------------------------- | :-----------: |
+| Ferramenta de desenho para edição de geometria |       8       |
 
 ## :page_with_curl: Requisitos Não Funcionais
 
-| **Descrição** | **Requisito** |
-|-------- | :--------: |
-| Documentação: manual de usuário, diagrama entidade-relacionamento e instruções de instalação | 9 |
-| Utilizar softwares livres | 10 |
-| Java (linguagem de programação, frameworks e APIs) | 11 |
-| Deverá ser uma aplicação web | 12 |
-| O front-end deve ser desenvolvido de forma minimalista | 13 |
+| **Descrição**                                                                                | **Requisito** |
+| -------------------------------------------------------------------------------------------- | :-----------: |
+| Documentação: manual de usuário, diagrama entidade-relacionamento e instruções de instalação |       9       |
+| Utilizar softwares livres                                                                    |      10       |
+| Java (linguagem de programação, frameworks e APIs)                                           |      11       |
+| Deverá ser uma aplicação web                                                                 |      12       |
+| O front-end deve ser desenvolvido de forma minimalista                                       |      13       |
 
 ## :calendar: Cronograma
 
-| Sprint  | Nome | Data inicio  | Data Fim | Status |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| --  | KickOff   | 24/02   | 28/02 | Ok |
-|  1  | Sprint 1   | 10/03   | 30/03 | Ok |
-|  2  | Sprint 2   | 07/04   | 27/04 |  |
-|  3  | Sprint 3   | 05/05   | 25/05 |  |
-|  4  | Feira de Soluções  | 29/05 | 29/05 |   | 
-
-
+| Sprint | Nome              | Data inicio | Data Fim | Status |
+| ------ | ----------------- | ----------- | -------- | ------ |
+| --     | KickOff           | 24/02       | 28/02    | Ok     |
+| 1      | Sprint 1          | 10/03       | 30/03    | Ok     |
+| 2      | Sprint 2          | 07/04       | 27/04    | Ok     |
+| 3      | Sprint 3          | 05/05       | 25/05    | Ok     |
+| 4      | Feira de Soluções | 29/05       | 29/05    |        |
 
 ## :date: Product BackLog
+
 <table>
     <thead>
         <tr>
@@ -171,9 +169,8 @@ Criar um sistema para cadastro, análise e visualização de áreas agrícolas, 
     </tbody>
 </table>
 
-
-
 ## :bookmark: Tecnologias Utilizadas
+
 <h4 align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
